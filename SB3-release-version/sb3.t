@@ -1,4 +1,4 @@
-.TH sb3 3 "november 16, 2022" "version 1.20" "SB3 lib man page"
+.TH sb3 3 "december 09, 2022" "version 1.20" "SB3 lib man page"
 
 .SH NAME
 sb3 \- SB3, image library (SDL BUT BETTER BITMAP)
@@ -92,6 +92,6 @@ set \fIpixel\fR (\fBSB3_RGBColor_t*\fR or \fBSB3_monoColor_t*\fR) in \fIimage\fR
 .RE
 
 .SH AUTHOR
-created by \fBAyAztuB\fR (\fIayaztub@gmail.com\fR) from \fIhttps://github.com/AyAztuB/C_libs/tree/main/SB3\fR
+created by \fBAyAztuB\fR (\fIayaztub@gmail.com\fR) from \fIhttps://github.com/AyAztuB/SB3\-Project\fR
 
 

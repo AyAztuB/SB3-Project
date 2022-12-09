@@ -25,7 +25,7 @@
  *
  * AUTHOR
  *
- * AyAztuB (ayaztub@gmail.com) from https://github.com/AyAztuB/C_libs
+ * AyAztuB (ayaztub@gmail.com) from https://github.com/AyAztuB/SB3-Project
  *
  */
 
